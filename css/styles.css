@@ -30,6 +30,8 @@ figure>img{
     width: 300px;
     display: inline-block;
     float: left;
+    aspect-ration:1;
+    margin:30px;
 }
 
 section>p:first-child{
