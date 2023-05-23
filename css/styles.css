@@ -6,3 +6,13 @@
 p{
     font-size:1.2rem;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: rebeccapurple;
+}
+a:hover{
+    color: brown;
+}
