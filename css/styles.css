@@ -6,8 +6,14 @@
 .font-size-160{
     font-size: 160%;
 }
+.uppercase{
+    text-transform: capitalize;
+}
 .bg-lightgray{
     background: lightgray;
+}
+.italic{
+    font-style: italic;
 }
 p{
     font-size:1.2rem;
@@ -15,7 +21,6 @@ p{
 a{
     text-decoration: none;
     color: black;
-    border: 3px red solid ;
 }
 a:visited{
     color: rebeccapurple;
