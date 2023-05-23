@@ -3,12 +3,19 @@
     font-family: Georgia, serif;
 }
 
+.font-size-160{
+    font-size: 160%;
+}
+.bg-lightgray{
+    background: lightgray;
+}
 p{
     font-size:1.2rem;
 }
 a{
     text-decoration: none;
     color: black;
+    border: 3px red solid ;
 }
 a:visited{
     color: rebeccapurple;
@@ -16,3 +23,15 @@ a:visited{
 a:hover{
     color: brown;
 }
+
+body{
+    width: 90%;
+    margin: auto;
+
+
+    background: -webkit-linear-gradient(90deg, rgb(193, 148, 116), rgb(239, 104, 38));
+    background: linear-gradient(90deg, rgb(193, 148, 116), rgb(239, 104, 38));
+
+
+}
+
